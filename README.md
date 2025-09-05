@@ -1,4 +1,9 @@
 ## Hi there 👋
+Code. Build. Break. Fix. Repeat. 
+👨‍💻 Developer by day, Debugger by night  
+✨ Turning coffee into clean code  
+🌍 Believer in open-source & community learning  
+
 
 <!--
 **Vidheendu/Vidheendu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
