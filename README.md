@@ -20,9 +20,7 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vidheenduE&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vidheendu&layout=compact&theme=radical)
+
 
 ---
 
