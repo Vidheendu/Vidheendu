@@ -20,13 +20,6 @@
 
 ---
 
-
-
----
-
-
----
-
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/vidheendu-chaturvedi-b0b362351" target="blank">
