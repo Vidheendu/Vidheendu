@@ -1,34 +1,66 @@
 <h1 align="center">Hi 👋, I'm Vidheendu</h1>
-<h3 align="center">🚀 Passionate Developer | 🌱 Lifelong Learner | 💡 Problem Solver</h3>
+<h3 align="center">🚀 Developer | 🤖 AI Enthusiast | 📊 Data Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Full+Stack+Developer;AI+%7C+Data+Science+Enthusiast;Building+Real+World+Projects;Always+Learning+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vidheendu&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-### 🌟 About Me
-- 🌱 I’m currently learning **Full Stack Development**
-- 💬 Ask me about **Web Development, JavaScript, and Open Source**
-- 📫 Reach me at: **vidheendu01@gmail.com**
+## 🌟 About Me
+- 🌱 Currently learning **Full Stack Development & AI**
+- 💡 Interested in **Data Science & Real-world Projects**
+- 💬 Ask me about **JavaScript, APIs, and Web Development**
+- 📫 Reach me: **vidheendu01@gmail.com**
 - ⚡ Fun fact: *I commit bugs faster than I fix them 😅*
 
 ---
 
-### 🛠 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/vidheendu-chaturvedi-b0b362351" target="blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+## 🚀 Projects
+- 🎬 **CineSense** – Movie recommender using **TMDB API**  
+- 🤖 **Gemini AI Clone** – AI chatbot with API integration  
+- 🌸 **Floral-Bliss** – Responsive business website  
+- ☕ **Coffee Heaven** – Interactive UI website  
+- 📄 **ResumeVerify** – Resume validation interface  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vidheendu&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vidheendu&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidheendu&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/vidheendu-chaturvedi-b0b362351" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  
-  
+  <a href="https://github.com/Vidheendu" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 ---
 
-⭐️ From [Vidheendu](https://github.com/yourusername)
+<p align="center">⭐️ From <a href="https://github.com/Vidheendu">Vidheendu</a></p>
