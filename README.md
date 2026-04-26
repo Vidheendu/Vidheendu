@@ -14,7 +14,7 @@
 ## 🌟 About Me
 - 🌱 Currently learning **Full Stack Development & AI**
 - 💡 Interested in **Data Science & Real-world Projects**
-- 💬 Ask me about **JavaScript, APIs, and Web Development**
+- 💬 Ask me about **JavaScript, APIs, React, Node.js**
 - 📫 Reach me: **vidheendu01@gmail.com**
 - ⚡ Fun fact: *I commit bugs faster than I fix them 😅*
 
@@ -22,22 +22,7 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vidheendu&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vidheendu&theme=tokyonight" />
-</p>
-
----
-
-## 🧠 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidheendu&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python" />
 </p>
 
 ---
@@ -49,6 +34,9 @@
   </a>
   <a href="https://github.com/Vidheendu" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:vidheendu16@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
