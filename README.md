@@ -27,15 +27,6 @@
 
 ---
 
-## 🚀 Projects
-- 🎬 **CineSense** – Movie recommender using **TMDB API**  
-- 🤖 **Gemini AI Clone** – AI chatbot with API integration  
-- 🌸 **Floral-Bliss** – Responsive business website  
-- ☕ **Coffee Heaven** – Interactive UI website  
-- 📄 **ResumeVerify** – Resume validation interface  
-
----
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vidheendu&show_icons=true&theme=tokyonight" />
