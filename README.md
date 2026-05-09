@@ -14,7 +14,7 @@
 ## 🌟 About Me
 - 🌱 Currently learning **Full Stack Development & AI**
 - 💡 Interested in **Data Science & Real-world Projects**
-- 💬 Ask me about **JavaScript, APIs, React, Node.js**
+- 💬 Ask me about **JavaScript, APIs, Next.js**
 - 📫 Reach me: **vidheendu01@gmail.com**
 - ⚡ Fun fact: *I commit bugs faster than I fix them 😅*
 
