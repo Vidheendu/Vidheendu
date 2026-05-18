@@ -83,5 +83,7 @@
 
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
-
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i>
+</p>
 <h3 align="center">⭐️ Thanks for visiting my profile ⭐️</h3>
