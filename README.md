@@ -6,7 +6,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%7C+Data+Science+Enthusiast;Building+Real+World+Projects;Open+Source+Contributor;Always+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Real+World+Projects;Open+Source+Contributor;Always+Learning" />
 </p>
 
 <!-- Profile Views -->
