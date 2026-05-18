@@ -26,7 +26,13 @@
 - ⚡ Fun fact: *I commit bugs faster than I fix them 😅*
 
 ---
+# 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vidheendu/Vidheendu/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+--- 
 # 🚀 Tech Stack
 
 <p align="center">
@@ -53,14 +59,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vidheendu&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vidheendu/Vidheendu/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
