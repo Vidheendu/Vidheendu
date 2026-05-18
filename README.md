@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Vidheendu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Vidheendu Chaturvedi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <h1 align="center">Hi 👋, I'm Vidheendu</h1>
 <h3 align="center">🚀 Developer | 🤖 AI Enthusiast | 📊 Data Explorer</h3>
