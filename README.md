@@ -63,6 +63,26 @@
 
 ---
 
+<h2 align="center">🏆 GSSoC 2026 Badges</h2>
+
+<p align="center">
+  <img src="./assets/rising-star.png" width="120"/>
+  <img src="./assets/first-steps.png" width="120"/>
+  <img src="./assets/discord-verified.png" width="120"/>
+  <img src="./assets/profile-complete.png" width="120"/>
+</p>
+
+<p align="center">
+  <img src="./assets/point-scorer.png" width="120"/>
+  <img src="./assets/bounty-hunter.png" width="120"/>
+  <img src="./assets/code-warrior.png" width="120"/>
+</p>
+
+
+
+
+---
+
 # 🌐 Connect with Me
 
 <p align="center">
