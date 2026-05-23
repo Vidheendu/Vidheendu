@@ -54,8 +54,7 @@
 
 
 ---
-
-# 🏆 GitHub Trophies
+#🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vidheendu&theme=tokyonight&no-frame=true&row=1&column=6" />
@@ -81,7 +80,7 @@
 
   <img src="https://github.com/Vidheendu/Vidheendu/blob/main/assets/gssoc-badge-bounty_hunter.png?raw=true" width="120"/>
 
-  <img src="https://github.com/Vidheendu/Vidheendu/blob/main/assets/gssoc-badge-code_warrior.png?raw=true" width="120"/>
+  <img src="https://github.com/Vidheendu/Vidheendu/blob/main/assets/gssoc-badge-role_contributor.png?raw=true" width="120"/>
 </p>
 
 <p align="center">
