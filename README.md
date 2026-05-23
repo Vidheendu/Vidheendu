@@ -54,69 +54,12 @@
 
 
 ---
+
 # 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vidheendu&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
----
-
-# 🏆 GSSoC 2026 Badges
-
-<table align="center">
-<tr>
-
-<td align="center" width="180">
-  <img src="https://github.com/Vidheendu/Vidheendu/blob/main/assets/gssoc-badge-rising_star.png?raw=true" width="120"/><br><br>
-
-</td>
-
-<td align="center" width="180">
-  <img src="https://github.com/Vidheendu/Vidheendu/blob/main/assets/gssoc-badge-first_steps.png?raw=true" width="120"/><br><br>
-
-</td>
-
-<td align="center" width="180">
-  <img src="https://github.com/Vidheendu/Vidheendu/blob/main/assets/gssoc-badge-discord_verified.png?raw=true" width="120"/><br><br>
- 
-</td>
-
-<td align="center" width="180">
-  <img src="https://github.com/Vidheendu/Vidheendu/blob/main/assets/gssoc-badge-profile_complete.png?raw=true" width="120"/><br><br>
- 
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="180">
-  <img src="https://github.com/Vidheendu/Vidheendu/blob/main/assets/gssoc-badge-point_scorer.png?raw=true" width="120"/><br><br>
-  
-</td>
-
-<td align="center" width="180">
-  <img src="https://github.com/Vidheendu/Vidheendu/blob/main/assets/gssoc-badge-bounty_hunter.png?raw=true" width="120"/><br><br>
-
-</td>
-
-<td align="center" width="180">
-  <img src="https://github.com/Vidheendu/Vidheendu/blob/main/assets/gssoc-badge-role_contributor.png?raw=true" width="120"/><br><br>
-
-</td>
-
-</tr>
-</table>
-
-<p align="center">
-✨ Proud participant of GirlScript Summer of Code 2026 ✨
-</p>
-```
-
-
-
-
 
 ---
 
