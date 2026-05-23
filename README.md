@@ -54,7 +54,7 @@
 
 
 ---
-#🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vidheendu&theme=tokyonight&no-frame=true&row=1&column=6" />
@@ -62,7 +62,6 @@
 
 ---
 
-<h2 align="center">🏆 GSSoC 2026 Badges</h2>
 # 🏆 GSSoC 2026 Badges
 
 <p align="center">
