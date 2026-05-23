@@ -64,18 +64,28 @@
 ---
 
 <h2 align="center">🏆 GSSoC 2026 Badges</h2>
+# 🏆 GSSoC 2026 Badges
 
 <p align="center">
-  <img src="./assets/rising-star.png" width="120"/>
-  <img src="./assets/first-steps.png" width="120"/>
-  <img src="./assets/discord-verified.png" width="120"/>
-  <img src="./assets/profile-complete.png" width="120"/>
+  <img src="https://github.com/Vidheendu/Vidheendu/blob/main/assets/gssoc-badge-rising_star.png?raw=true" width="120"/>
+
+  <img src="https://github.com/Vidheendu/Vidheendu/blob/main/assets/gssoc-badge-first_steps.png?raw=true" width="120"/>
+
+  <img src="https://github.com/Vidheendu/Vidheendu/blob/main/assets/gssoc-badge-discord_verified.png?raw=true" width="120"/>
+
+  <img src="https://github.com/Vidheendu/Vidheendu/blob/main/assets/gssoc-badge-profile_complete.png?raw=true" width="120"/>
 </p>
 
 <p align="center">
-  <img src="./assets/point-scorer.png" width="120"/>
-  <img src="./assets/bounty-hunter.png" width="120"/>
-  <img src="./assets/code-warrior.png" width="120"/>
+  <img src="https://github.com/Vidheendu/Vidheendu/blob/main/assets/gssoc-badge-point_scorer.png?raw=true" width="120"/>
+
+  <img src="https://github.com/Vidheendu/Vidheendu/blob/main/assets/gssoc-badge-bounty_hunter.png?raw=true" width="120"/>
+
+  <img src="https://github.com/Vidheendu/Vidheendu/blob/main/assets/gssoc-badge-code_warrior.png?raw=true" width="120"/>
+</p>
+
+<p align="center">
+✨ Proud participant of GirlScript Summer of Code 2026 ✨
 </p>
 
 
