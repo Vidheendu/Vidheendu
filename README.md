@@ -54,25 +54,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
-# 📊 GitHub Analytics
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vidheendu&show_icons=true&theme=radical&hide_border=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Vidheendu&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidheendu&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vidheendu&theme=radical&no-frame=true&no-bg=true&row=1&column=7" />
-
-</div>
+# 📊 GitHub Stats <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vidheendu&theme=radical" height="180em"/> </p> ---
 
 ---
 
