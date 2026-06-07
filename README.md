@@ -38,22 +38,13 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="55"/><br><b>HTML5</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="55"/><br><b>CSS3</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js" width="55"/><br><b>JavaScript</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="55"/><br><b>TypeScript</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="55"/><br><b>React</b></td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="55"/><br><b>Python</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="55"/><br><b>Git</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github" width="55"/><br><b>GitHub</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="55"/><br><b>VS Code</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="55"/><br><b>Vercel</b></td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,git,github,vscode,vercel&theme=dark" />
+
+<br><br>
+
+| Frontend | Languages | Tools |
+|-----------|-----------|--------|
+| HTML5 • CSS3 • React | JavaScript • TypeScript • Python | Git • GitHub • VS Code • Vercel |
 
 </div>
 
