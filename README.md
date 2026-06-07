@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Vidheendu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
 
 </div>
 
@@ -86,7 +86,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vidheendu&theme=tokyo-night&hide_border=true" />
 
 </div>
 
