@@ -36,11 +36,65 @@
 --- 
 # 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,git,github,vscode" />
-</p>
+<div align="center">
 
----
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br>
+<b>HTML5</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br>
+<b>CSS3</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=js" width="50"/><br>
+<b>JavaScript</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=ts" width="50"/><br>
+<b>TypeScript</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=react" width="50"/><br>
+<b>React</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br>
+<b>Python</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>
+<b>Git</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>
+<b>GitHub</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>
+<b>VS Code</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vercel" width="50"/><br>
+<b>Vercel</b>
+</td>
+</tr>
+</table>
+
+</div>
 
 
 # 📊 GitHub Stats
