@@ -54,11 +54,13 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
+---
+
 # 📊 GitHub Stats <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vidheendu&theme=radical" height="180em"/> </p> ---
 
 ---
 
-## 📈 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
@@ -66,6 +68,7 @@
 
 </div>
 
+--- 
 
 # 🌐 Connect with Me
 
