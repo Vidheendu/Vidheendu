@@ -18,7 +18,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284068-accd66f1-4f0d-4f55-bf3f-9e9b7d9d0b2b.gif" width="100%">
 </p>
-# 🌟 About Me
+🌟 About Me
 
 -  Currently learning **Full Stack Development & AI**
 -  Interested in **Real-world Projects**
@@ -52,16 +52,8 @@
 </p>
 
 
-
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vidheendu&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 # 🌐 Connect with Me
 
