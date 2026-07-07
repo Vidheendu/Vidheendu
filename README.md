@@ -55,12 +55,6 @@
 
 </div>
 
-# 📊 GitHub Stats 
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vidheendu&theme=radical" height="180em"/> </p>
-
----
-
 # 📈 Contribution Activity
 
 <div align="center">
