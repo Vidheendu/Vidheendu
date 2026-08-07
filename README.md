@@ -24,7 +24,7 @@
 -  Interested in **Real-world Projects**
 -  Ask me about **JavaScript, Git, APIs, Next.js**
 -  Reach me: **vidheendu01@gmail.com**
--  Fun fact: *I commit bugs faster than I fix them*
+-  Fun fact: *I commit bugs faster than I fix them.*
 
 ---
 # 🐍 Contribution Snake
