@@ -49,7 +49,7 @@
 <p align="center">
   <img src="./assets/gssoc-badge-rare_merged.png" width="140" />
   <img src="./assets/gssoc-badge-elite.png" width="140" />
-  <img src="./assets/gssoc-badge-on_a_roll.png" width="140" />
+  <img src="./assets/gssoc-badge-on_fire.png" width="140" />
   <img src="./assets/gssoc-badge-point_scorer.png" width="140" />
   <img src="./assets/gssoc-badge-power_contributor.png" width="140" />
   
