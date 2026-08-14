@@ -33,6 +33,29 @@
   <img src="https://raw.githubusercontent.com/Vidheendu/Vidheendu/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
+---
+# 🏆 GSSoC 2026 Achievements
+
+<p align="center">
+  <img src="./assets/gssoc-badge-consistent.png" width="180" />
+  <img src="./assets/gssoc-badge-elite.png" width="180" />
+  <img src="./assets/gssoc-badge-gssoc_champion.png" width="180" />
+  <img src="./assets/gssoc-badge-legend.png" width="180" />
+  <img src="./assets/gssoc-badge-top_100.png" width="180" />
+</p>
+
+<p align="center">
+  <img src="./assets/gssoc-badge-on_a_roll.png" width="180" />
+  <img src="./assets/gssoc-badge-on_fire.png" width="180" />
+  <img src="./assets/gssoc-badge-point_scorer.png" width="180" />
+  <img src="./assets/gssoc-badge-power_contributor.png" width="180" />
+  <img src="./assets/gssoc-badge-top_50.png" width="180" />
+</p>
+
+<p align="center">
+  <b>🚀 Contributing, learning, and building through open source with GSSoC 2026.</b>
+</p>
+
 --- 
 # 🚀 My Tech Arsenal
 <div align="center">
