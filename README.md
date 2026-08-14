@@ -37,19 +37,21 @@
 # 🏆 GSSoC 2026 Achievements
 
 <p align="center">
-  <img src="./assets/gssoc-badge-consistent.png" width="140" />
-  <img src="./assets/gssoc-badge-elite.png" width="140" />
   <img src="./assets/gssoc-badge-gssoc_champion.png" width="140" />
-  <img src="./assets/gssoc-badge-legend.png" width="140" />
   <img src="./assets/gssoc-badge-top_100.png" width="140" />
+  <img src="./assets/gssoc-badge-top_50.png" width="140" />
+  <img src="./assets/gssoc-badge-legend.png" width="140" />
+  <img src="./assets/gssoc-badge-consistent.png" width="140" />
+  <img src="./assets/gssoc-badge-rare_merged.png" width="140" />
+  
 </p>
 
 <p align="center">
-  <img src="./assets/gssoc-badge-rare_merged.png" width="140" />
+  <img src="./assets/gssoc-badge-elite.png" width="140" />
   <img src="./assets/gssoc-badge-on_a_roll.png" width="140" />
   <img src="./assets/gssoc-badge-point_scorer.png" width="140" />
   <img src="./assets/gssoc-badge-power_contributor.png" width="140" />
-  <img src="./assets/gssoc-badge-top_50.png" width="140" />
+  
 </p>
 
 <p align="center">
