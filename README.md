@@ -68,24 +68,6 @@
 
 </div>
 
---- 
-
-# 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/vidheendu-chaturvedi-b0b362351" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="https://github.com/Vidheendu" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-
-  <a href="mailto:vidheendu16@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
 ---
 
 <!-- Animated Footer -->
