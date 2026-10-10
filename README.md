@@ -12,10 +12,11 @@
 <!-- Profile Views -->
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=Vidheendu&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    src="https://visitor-badge.laobi.icu/badge?page_id=Vidheendu.Vidheendu&left_color=gray&right_color=blue&left_text=Profile%20Views"
     alt="Profile Views"
   />
 </p>
+
 
 
 <!-- Animated Divider -->
