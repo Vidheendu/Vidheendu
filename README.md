@@ -9,13 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Building+Real+World+Projects;Open+Source+Contributor;Always+Learning" />
 </p>
 
-<!-- Profile Views -->
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Vidheendu&label=Profile%20Views&color=0e75b6&style=for-the-badge"
-    alt="Profile Views"
-  />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Vidheendu&color=0e75b6&style=for-the-badge)
 
 <!-- Animated Divider -->
 <p align="center">
